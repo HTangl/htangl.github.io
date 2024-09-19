@@ -1,2 +1,92 @@
 [
+    {
+        "name": "Audeze",
+        "phones": [
+            {
+                "name": "Maxwell",
+                "file": ["Audeze Maxwell (WC Pads)"],
+                "suffix":["(WC Pads)"]
+            }
+        ]
+    },
+    {
+        "name": "Capra Audio",
+        "phones": [
+            {
+                "name": "Satyr 1",
+                "file": ["Capra Audio Satyr 1"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "DMS",
+        "phones": [
+            {
+                "name": "Omega",
+                "file": ["DMS Omega", "DMS Omega (Dekoni Choice Suede)"],
+                "suffix":["", "(Dekoni Choice Suede Pads)"]
+            }
+        ]
+    },
+    {
+        "name": "Koss",
+        "phones": [
+            {
+                "name": "KSC75",
+                "file": ["Koss KSC75 (PE Headand)"],
+                "suffix":["(PE Headand)"]
+            }
+        ]
+    },
+    {
+        "name": "Philphone",
+        "phones": [
+            {
+                "name": "Philphone",
+                "file": ["Philphone"],
+                "suffix":[""]
+            },
+            {
+                "name": "Closed",
+                "file": ["Philphone Closed"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "Sennheiser",
+        "phones": [
+            {
+                "name": "HD 490 Pro",
+                "file": ["Sennheiser HD 490 Pro (Producing Pads)", "Sennheiser HD 490 Pro (Mixing Pads)"],
+                "suffix":["(Producing Pads)", "(Mixing Pads)"]
+            },
+            {
+                "name": "HD 569",
+                "file": ["Sennheiser HD 569"],
+                "suffix":[""]
+            },
+            {
+                "name": "HD 6XX",
+                "file": ["Sennheiser HD 6XX"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "Sony",
+        "phones": [
+            {
+                "name": "MDR-XB500",
+                "file": ["Sony MDR XB-500"],
+                "suffix":[""]
+            },
+            {
+                "name": "MDR-MV1",
+                "file": ["Sony MDR-MV1"],
+                "suffix":[""]
+            }
+        ]
+    }
 ]

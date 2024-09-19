@@ -1,11 +1,168 @@
 [
-  {
-    "name": "AudioSense",
-    "phones": [
-      {
-        "name": "DT200",
-        "file": "AudioSense DT200"
-      }
-    ]
-  }
+    {
+        "name": "7th Acoustics",
+        "phones": [
+            {
+                "name": "Supernova",
+                "file": ["7th Acoustics Supernova (AET07)"],
+                "suffix":["(AET07)"],
+                "reviewScore": "3/5"
+            }
+        ]
+    },
+    {
+        "name": "Artti",
+        "phones": [
+            {
+                "name": "R1",
+                "file": ["Artti R1 (AET07)"],
+                "suffix":["(AET07)"],
+                "reviewScore": "4/5"
+            }
+        ]
+    },
+    {
+        "name": "Blon",
+        "phones": [
+            {
+                "name": "Z300",
+                "file": ["Blon Z300 (AET07)"],
+                "suffix":["(AET07)"],
+                "reviewScore": "2/5"
+            }
+        ]
+    },
+    {
+        "name": "Dunu",
+        "phones": [
+            {
+                "name": "Falcon Ultra",
+                "file": ["Dunu Falcon Ultra (Blue Nozzle AET07)"],
+                "suffix":["(Blue Nozzle AET07)"],
+                "reviewScore": "2/5"
+            }
+        ]
+    },
+    {
+        "name": "Hisenior",
+        "phones": [
+            {
+                "name": "Mega5EST",
+                "file": ["Hisenior Mega5EST (AET07)"],
+                "suffix":["(AET07)"],
+                "reviewScore": "4/5"
+            }
+        ]
+    },
+    {
+        "name": "JBL",
+        "phones": [
+            {
+                "name": "Tune 230NC",
+                "file": ["JBL Tune 230NC"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "KZ",
+        "phones": [
+            {
+                "name": "Merga",
+                "file": ["KZ Merga (AET07)","KZ Merga (AET07) 10 Ohm","KZ Merga (AET07) 20 Ohm","KZ Merga (AET07) 50 Ohm","KZ Merga (AET07) 75 Ohm","KZ Merga (AET07) 100 Ohm"],
+                "suffix":["(AET07)","(10 Ohm)","(20 Ohm)","(50 Ohm)","(75 Ohm)","(100 Ohm)"]
+            }
+        ]
+    },
+    {
+        "name": "Nightjar",
+        "phones": [
+            {
+                "name": "Singularity",
+                "file": ["Nightjar Singularity (Divinus Velvet)", "Nightjar Singularity (Ragnarok AET07)"],
+                "suffix":["(Divinus Velvet)", "(Ragnarok AET07)"],
+                "reviewScore": "5/5"
+            }
+        ]
+    },
+    {
+        "name": "QKZ",
+        "phones": [
+            {
+                "name": "QKZ x HBB",
+                "file": ["QKZ QKZ x HBB (AET07)"],
+                "suffix":["(AET07)"],
+                "reviewScore": "3/5"
+            }
+        ]
+    },
+    {
+        "name": "Samsung",
+        "phones": [
+            {
+                "name": "Galaxy Buds FE",
+                "file": ["Samsung Galaxy Buds FE"],
+                "suffix":[""],
+                "reviewScore": "3/5"
+            }
+        ]
+    },
+    {
+        "name": "Skullcandy",
+        "phones": [
+            {
+                "name": "Jib",
+                "file": ["Skullcandy Jib (AET07)"],
+                "suffix":["(AET07)"]
+            }
+        ]
+    },
+    {
+        "name": "Sony",
+        "phones": [
+            {
+                "name": "WF-C700N",
+                "file": ["Sony WF-C700N"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "Symphonium",
+        "phones": [
+            {
+                "name": "Crimson",
+                "file": ["Symphonium Crimson (AET07)"],
+                "suffix":["(AET07)"],
+                "reviewScore": "2/5"
+            },
+            {
+                "name": "Meteor",
+                "file": ["Symphonium Meteor (AET07)"],
+                "suffix":["(AET07)"],
+                "reviewScore": "2/5"
+            }
+        ]
+    },
+    {
+        "name": "Tangzu",
+        "phones": [
+            {
+                "name": "Waner",
+                "file": ["Tangzu Waner (AET07)"],
+                "suffix":["(AET07)"]
+            }
+        ]
+    },
+    {
+        "name": "Tripowin",
+        "phones": [
+            {
+                "name": "Mele",
+                "file": ["Tripowin x HBB Mele (AET07)"],
+                "suffix":["(AET07)"]
+            }
+        ]
+    }
+
 ]

@@ -1,19 +1,19 @@
 
 /* Primary color theme */
 :root {
-    --accent-color: hsl(0, 0%, 0%);
-    --accent-color-contrast: hsl(0, 0%, 55%);
+    --accent-color: hsl(0, 0%, 35%);
+    --accent-color-contrast: hsl(155, 100%, 50%);
 
-    --background-color: hsl(0, 0%, 96%);
-    --background-color-contrast: hsl(0, 0%, 90%);
-    --background-color-contrast-more: hsl(0, 0%, 65%);
-    --background-color-graph: hsl(0, 0%, 100%);
+    --background-color: hsl(0, 0%, 15%);
+    --background-color-contrast: hsl(0, 0%, 15%);
+    --background-color-contrast-more: hsl(0, 0%, 80%);
+    --background-color-graph: hsl(0, 0%, 15%);
     
-    --background-color-inputs: hsl(0, 0%, 100%);
+    --background-color-inputs: hsl(0, 0%, 10%);
     
-    --font-color-primary: hsl(0, 0%, 10%);
-    --font-color-secondary: hsl(0, 0%, 100%);
-    --font-color-inputs: hsl(0, 0%, 50%);
+    --font-color-primary: hsl(0, 0%, 60%);
+    --font-color-secondary: hsl(155, 100%, 50%);
+    --font-color-inputs: hsl(0, 0%, 100%);
     
     --font-primary: 'Open Sans', sans-serif;
     --font-secondary: monospace;
@@ -21,7 +21,7 @@
     --scrollbar-color: 255,255,255;
     --scrollbar-accent: 0,0,0;
         
-    --logo-filter: invert(1.0);
+    --logo-filter: invert(0);
     --svg-filter: none;
 }
 

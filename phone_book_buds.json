@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Amazon",
+        "phones": [
+            {
+                "name": "Echo Buds 2023",
+                "file": ["Amazon Echo Buds 2023 (Foam)", "Amazon Echo Buds 2023 (Silicone)", "Amazon Echo Buds 2023 (Bare)"],
+                "suffix":["(Foam)", "(Silicone)", "(Bare)"]
+            }
+        ]
+    },
+    {
+        "name": "HZSound",
+        "phones": [
+            {
+                "name": "Bell Rhyme",
+                "file": ["HZSound Bell Rhyme"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "Moondrop",
+        "phones": [
+            {
+                "name": "Block",
+                "file": ["Moondrop Block (Bare)", "Moondrop Block (Foam)", "Moondrop Block (Donut Foam)"],
+                "suffix":["(Bare)", "(Foam)", "(Donut Foam)"]
+            }
+        ]
+    },
+    {
+        "name": "NiceHCK",
+        "phones": [
+            {
+                "name": "EB2S Pro",
+                "file": ["NiceHCK EB2S Pro"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "TGXear",
+        "phones": [
+            {
+                "name": "Serratus",
+                "file": ["TGXear Serratus"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "Valphonics",
+        "phones": [
+            {
+                "name": "Valbuds V3",
+                "file": ["Valphonics Valbuds"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "Venture Electronics",
+        "phones": [
+            {
+                "name": "Monk Plus",
+                "file": ["VE Monk Plus"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "Vido",
+        "phones": [
+            {
+                "name": "Earbuds",
+                "file": ["Vido Earbuds (Blue S1)", "Vido Earbuds (Blue S2)"],
+                "suffix":["(Blue S1)", "(Blue S2)"]
+            }
+        ]
+    }
+]
