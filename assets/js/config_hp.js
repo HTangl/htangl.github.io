@@ -86,7 +86,7 @@ function watermark(svg) {
 
     // Extra flair
     svg.append("g")
-        .attr("opacity",0.2)
+        .attr("opacity",0.5)
         .append("text")
         .attrs({x:765, y:314, "font-size":10, "text-anchor":"end", "class":"site_name"})
         .text("htangl.github.io");
