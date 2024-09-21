@@ -121,6 +121,16 @@
         "name": "Sony",
         "phones": [
             {
+                "name": "MH750",
+                "file": ["Sony MH750 (AET07)"],
+                "suffix":["(AET07)"]
+            },
+            {
+                "name": "MH755",
+                "file": ["Sony MH755 (Fake)"],
+                "suffix":["(Fake)"]
+            },
+            {
                 "name": "WF-C700N",
                 "file": ["Sony WF-C700N"],
                 "suffix":[""]
