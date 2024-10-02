@@ -39,7 +39,7 @@ const init_phones = ["KB50XX DF Target", "Sennheiser HD 6XX"],// Optional. Which
 // Specify which targets to display
 const targets = [
     { type:"Reference",  files:["KB50XX DF", "ISO 11904-2 DF"] },
-    { type:"Preference", files:[""] }
+    { type:"Preference", files:["Hadoe Headphone"] }
 ];
 
 // Haruto's Addons
