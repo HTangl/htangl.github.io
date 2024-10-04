@@ -15,7 +15,7 @@
             {
                 "name": "Bell Rhyme",
                 "file": ["HZSound Bell Rhyme"],
-                "suffix":[""]
+                "suffix":["(Foam)"]
             }
         ]
     },
@@ -35,7 +35,17 @@
             {
                 "name": "EB2S Pro",
                 "file": ["NiceHCK EB2S Pro"],
-                "suffix":[""]
+                "suffix":["(Foam)"]
+            }
+        ]
+    },
+    {
+        "name": "Sweet Melody",
+        "phones": [
+            {
+                "name": "Super Bass",
+                "file": ["Sweet Melody Super Bass (Bare)", "Sweet Melody Super Bass (Foam)"],
+                "suffix":["(Bare)", "(Foam)"]
             }
         ]
     },
@@ -45,7 +55,7 @@
             {
                 "name": "Serratus",
                 "file": ["TGXear Serratus"],
-                "suffix":[""]
+                "suffix":["(Foam)"]
             }
         ]
     },
@@ -55,7 +65,7 @@
             {
                 "name": "Valbuds V3",
                 "file": ["Valphonics Valbuds"],
-                "suffix":[""]
+                "suffix":["(Foam)"]
             }
         ]
     },
@@ -65,7 +75,7 @@
             {
                 "name": "Monk Plus",
                 "file": ["VE Monk Plus"],
-                "suffix":[""]
+                "suffix":["(Foam)"]
             }
         ]
     },
@@ -73,9 +83,9 @@
         "name": "Vido",
         "phones": [
             {
-                "name": "Earbuds",
+                "name": "Earbuds Blue",
                 "file": ["Vido Earbuds (Blue S1)", "Vido Earbuds (Blue S2)"],
-                "suffix":["(Blue S1)", "(Blue S2)"]
+                "suffix":["(Foam S1)", "(Foam S2)"]
             }
         ]
     }

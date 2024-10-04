@@ -65,6 +65,16 @@
         ]
     },
     {
+        "name": "Kinera",
+        "phones": [
+            {
+                "name": "Wyvern Black",
+                "file": ["Kinera Wyvern Black (AET07)"],
+                "suffix":["(AET07)"]
+            }
+        ]
+    },
+    {
         "name": "KZ",
         "phones": [
             {
