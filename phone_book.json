@@ -141,6 +141,11 @@
                 "suffix":["(Fake)"]
             },
             {
+                "name": "WF-C510",
+                "file": ["Sony WF-C510 (AET07)", "Sony WF-C510 (Clear Bass +5 EQ)"],
+                "suffix":["(AET07)", "(Clear Bass +5)"]
+            },
+            {
                 "name": "WF-C700N",
                 "file": ["Sony WF-C700N"],
                 "suffix":[""]
