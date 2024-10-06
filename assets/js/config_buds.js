@@ -17,7 +17,7 @@ const init_phones = ["ISO 11904-2 DF Target", "TGXear Serratus"],// Optional. Wh
       watermark_image_url = "assets/images/prince.png", // Optional. If image file is in same directory as config, can be just the filename
       page_title = "Hadoe Graphtool",                  // Optional. Appended to the page title if share URLs are enabled
       page_description = "Buy Nightjar Singularity",
-      accessories = false,                           // If true, displays specified HTML at the bottom of the page. Configure further below
+      accessories = true,                           // If true, displays specified HTML at the bottom of the page. Configure further below
       externalLinksBar = false,                      // If true, displays row of pill-shaped links at the bottom of the page. Configure further below
       expandable = false,                           // Enables button to expand iframe over the top of the parent page
       expandableOnly = false,                       // Prevents iframe interactions unless the user has expanded it. Accepts "true" or "false" OR a pixel value; if pixel value, that is used as the maximum width at which expandableOnly is used
@@ -130,7 +130,7 @@ setLayout();
 const 
     // Short text, center-aligned, useful for a little side info, credits, links to measurement setup, etc. 
     simpleAbout = `
-        <p class="center">This graph database is maintained by HarutoHiroki with frequency responses generated via an "IEC60318-4"-compliant ear simulator. This web software is based on a heavily modified version of the <a href="https://github.com/mlochbaum/CrinGraph">CrinGraph</a> open source software project, with <a href="https://www.teachmeaudio.com/mixing/techniques/audio-spectrum">Audio Spectrum</a>'s definition source.</p>
+        <p class="center">All measurements taken using a clone 711 coupler and clone KB50XX pinna unless otherwise noted</p>
     `,
     // Which of the above variables to actually insert into the page
     whichAccessoriesToUse = simpleAbout;

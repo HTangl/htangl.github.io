@@ -5,7 +5,7 @@
             {
                 "name": "Supernova",
                 "file": ["7th Acoustics Supernova (AET07)"],
-                "suffix":["(AET07)"],
+                "suffix":[""],
                 "reviewScore": "3/5"
             }
         ]
@@ -16,7 +16,7 @@
             {
                 "name": "R1",
                 "file": ["Artti R1 (AET07)"],
-                "suffix":["(AET07)"],
+                "suffix":[""],
                 "reviewScore": "4/5"
             }
         ]
@@ -27,7 +27,7 @@
             {
                 "name": "Z300",
                 "file": ["Blon Z300 (AET07)"],
-                "suffix":["(AET07)"],
+                "suffix":[""],
                 "reviewScore": "2/5"
             }
         ]
@@ -38,7 +38,7 @@
             {
                 "name": "Falcon Ultra",
                 "file": ["Dunu Falcon Ultra (Blue Nozzle AET07)"],
-                "suffix":["(Blue Nozzle AET07)"],
+                "suffix":["(Blue Nozzle)"],
                 "reviewScore": "2/5"
             }
         ]
@@ -49,7 +49,7 @@
             {
                 "name": "Mega5EST",
                 "file": ["Hisenior Mega5EST (AET07)"],
-                "suffix":["(AET07)"],
+                "suffix":[""],
                 "reviewScore": "4/5"
             }
         ]
@@ -60,7 +60,7 @@
             {
                 "name": "Tune 230NC",
                 "file": ["JBL Tune 230NC"],
-                "suffix":[""]
+                "suffix":["(Stock Tips)"]
             }
         ]
     },
@@ -70,7 +70,7 @@
             {
                 "name": "Wyvern Black",
                 "file": ["Kinera Wyvern Black (AET07)"],
-                "suffix":["(AET07)"]
+                "suffix":[""]
             }
         ]
     },
@@ -80,7 +80,7 @@
             {
                 "name": "Merga",
                 "file": ["KZ Merga (AET07)","KZ Merga (AET07) 10 Ohm","KZ Merga (AET07) 20 Ohm","KZ Merga (AET07) 50 Ohm","KZ Merga (AET07) 75 Ohm","KZ Merga (AET07) 100 Ohm"],
-                "suffix":["(AET07)","(10 Ohm)","(20 Ohm)","(50 Ohm)","(75 Ohm)","(100 Ohm)"]
+                "suffix":["","(10 Ohm)","(20 Ohm)","(50 Ohm)","(75 Ohm)","(100 Ohm)"]
             }
         ]
     },
@@ -101,7 +101,7 @@
             {
                 "name": "QKZ x HBB",
                 "file": ["QKZ QKZ x HBB (AET07)"],
-                "suffix":["(AET07)"],
+                "suffix":[""],
                 "reviewScore": "3/5"
             }
         ]
@@ -112,7 +112,7 @@
             {
                 "name": "Galaxy Buds FE",
                 "file": ["Samsung Galaxy Buds FE"],
-                "suffix":[""],
+                "suffix":["(Stock Tips)"],
                 "reviewScore": "3/5"
             }
         ]
@@ -123,7 +123,7 @@
             {
                 "name": "Jib",
                 "file": ["Skullcandy Jib (AET07)"],
-                "suffix":["(AET07)"]
+                "suffix":[""]
             }
         ]
     },
@@ -133,7 +133,7 @@
             {
                 "name": "MH750",
                 "file": ["Sony MH750 (AET07)"],
-                "suffix":["(AET07)"]
+                "suffix":[""]
             },
             {
                 "name": "MH755",
@@ -143,12 +143,12 @@
             {
                 "name": "WF-C510",
                 "file": ["Sony WF-C510 (AET07)", "Sony WF-C510 (Clear Bass +5 EQ)"],
-                "suffix":["(AET07)", "(Clear Bass +5)"]
+                "suffix":["", "(Clear Bass +5)"]
             },
             {
                 "name": "WF-C700N",
                 "file": ["Sony WF-C700N"],
-                "suffix":[""]
+                "suffix":["(Stock Tips)"]
             }
         ]
     },
@@ -158,13 +158,13 @@
             {
                 "name": "Crimson",
                 "file": ["Symphonium Crimson (AET07)"],
-                "suffix":["(AET07)"],
+                "suffix":[""],
                 "reviewScore": "2/5"
             },
             {
                 "name": "Meteor",
                 "file": ["Symphonium Meteor (AET07)"],
-                "suffix":["(AET07)"],
+                "suffix":[""],
                 "reviewScore": "2/5"
             }
         ]
@@ -175,7 +175,7 @@
             {
                 "name": "Waner",
                 "file": ["Tangzu Waner (AET07)"],
-                "suffix":["(AET07)"]
+                "suffix":[""]
             }
         ]
     },
@@ -185,7 +185,7 @@
             {
                 "name": "Mele",
                 "file": ["Tripowin x HBB Mele (AET07)"],
-                "suffix":["(AET07)"]
+                "suffix":[""]
             }
         ]
     }
