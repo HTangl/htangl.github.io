@@ -75,6 +75,16 @@
         ]
     },
     {
+        "name": "Kiwi Ears",
+        "phones": [
+            {
+                "name": "Cadenza",
+                "file": ["Kiwi Ears Cadenza"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
         "name": "KZ",
         "phones": [
             {
@@ -90,7 +100,7 @@
             {
                 "name": "Singularity",
                 "file": ["Nightjar Singularity (Divinus Velvet)", "Nightjar Singularity (Ragnarok AET07)"],
-                "suffix":["(Divinus Velvet)", "(Ragnarok AET07)"],
+                "suffix":["(Divinus Velvet)", "(Ragnarok)"],
                 "reviewScore": "5/5"
             }
         ]
@@ -143,12 +153,12 @@
             {
                 "name": "WF-C510",
                 "file": ["Sony WF-C510 (AET07)", "Sony WF-C510 (Clear Bass +5 EQ)"],
-                "suffix":["", "(Clear Bass +5)"]
+                "suffix":["(AET07)", "(Clear Bass +5)"]
             },
             {
                 "name": "WF-C700N",
                 "file": ["Sony WF-C700N"],
-                "suffix":["(Stock Tips)"]
+                "suffix":[""]
             }
         ]
     },
@@ -158,14 +168,12 @@
             {
                 "name": "Crimson",
                 "file": ["Symphonium Crimson (AET07)"],
-                "suffix":[""],
-                "reviewScore": "2/5"
+                "suffix":[""]
             },
             {
                 "name": "Meteor",
                 "file": ["Symphonium Meteor (AET07)"],
-                "suffix":[""],
-                "reviewScore": "2/5"
+                "suffix":[""]
             }
         ]
     },

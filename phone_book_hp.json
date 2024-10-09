@@ -88,5 +88,15 @@
                 "suffix":[""]
             }
         ]
+    },
+    {
+        "name": "ZMF",
+        "phones": [
+            {
+                "name": "Atticus",
+                "file": ["ZMF Atticus (Ori Solid Lamb)"],
+                "suffix":["(Ori Solid Lamb)"]
+            }
+        ]
     }
 ]
