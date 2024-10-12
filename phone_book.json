@@ -4,9 +4,8 @@
         "phones": [
             {
                 "name": "Supernova",
-                "file": ["7th Acoustics Supernova (AET07)"],
-                "suffix":[""],
-                "reviewScore": "3/5"
+                "file": ["7th Acoustics Supernova (AET07 Clogged L Nozzle)"],
+                "suffix":["(Clogged L Nozzle)"]
             }
         ]
     },
