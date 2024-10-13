@@ -38,7 +38,7 @@ const init_phones = ["KB50XX DF Target", "Sennheiser HD 6XX"],// Optional. Which
 
 // Specify which targets to display
 const targets = [
-    { type:"Reference",  files:["KB50XX DF", "ISO 11904-2 DF"] },
+    { type:"Reference",  files:["KB50XX DF", "ISO 11904-2 DF", "11904-2 LC"] },
     { type:"Preference", files:["Hadoe Headphone"] }
 ];
 
@@ -55,8 +55,8 @@ const  preference_bounds_name = "Preference Bounds RAW",  // Preference bounds n
        default_tilt = -1,                            // Default Custom DF tilt value
        default_ear = 0,                                // Default Custom DF ear gain value
        default_treble = 0,                             // Default Custom DF treble gain value
-       tiltableTargets = ["KB50XX DF", "ISO 11904-2 DF"],                 // Targets that are allowed to be tilted
-       compTargets = ["KB50XX DF", "ISO 11904-2 DF"],                     // Targets that are allowed to be used for compensation
+       tiltableTargets = ["KB50XX DF", "ISO 11904-2 DF", "11904-2 LC"],                 // Targets that are allowed to be tilted
+       compTargets = ["KB50XX DF", "ISO 11904-2 DF", "11904-2 LC"],                     // Targets that are allowed to be used for compensation
        allowCreatorSupport = false;                     // Allow the creator to have a button top right to support them
 
 
