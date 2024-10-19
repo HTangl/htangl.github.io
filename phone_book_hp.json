@@ -90,6 +90,16 @@
         ]
     },
     {
+        "name": "UGreen",
+        "phones": [
+            {
+                "name": "HiTune Max5c",
+                "file": ["UGreen Max5c (Classic ANC Off)","UGreen Max5c (Classic ANC Ultra)","UGreen Max5c (Classic ANC General)","UGreen Max5c (Classic ANC Gentle)","UGreen Max5c (Jazz ANC Off)","UGreen Max5c (Classical ANC Off)","UGreen Max5c (Electronic ANC Off)","UGreen Max5c (Pop ANC Off)","UGreen Max5c (Rock ANC Off)","UGreen Max5c (Bass ANC Off)","UGreen Max5c (Treble ANC Off)"],
+                "suffix":["(Classic ANC Off)","(Classic ANC Ultra)","(Classic ANC General)","(Classic ANC Gentle)","(Jazz ANC Off)","(Classical ANC Off)","(Electronic ANC Off)","(Pop ANC Off)","(Rock ANC Off)","(Bass ANC Off)","(Treble ANC Off)"]
+            }
+        ]
+    },
+    {
         "name": "ZMF",
         "phones": [
             {
