@@ -103,9 +103,14 @@
         "name": "ZMF",
         "phones": [
             {
+                "name": "Aeolus",
+                "file": ["ZMF Aeolus (Universe Lamb Perf)", "ZMF Aeolus (Universe Hybrid Perf)", "ZMF Aeolus (Ori Lamb Solid)"],
+                "suffix":["(Universe Lamb Perf)", "(Universe Hybrid Perf)", "(Ori Lamb Solid)"]
+            },
+            {
                 "name": "Atticus",
-                "file": ["ZMF Atticus (Ori Lamb Solid)"],
-                "suffix":["(Ori Lamb Solid)"]
+                "file": ["ZMF Atticus (Ori Lamb Solid)", "ZMF Atticus (Universe Lamb Perf)"],
+                "suffix":["(Ori Lamb Solid)", "(Universe Lamb Perf)"]
             }
         ]
     }
