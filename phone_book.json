@@ -68,8 +68,8 @@
         "phones": [
             {
                 "name": "Wyvern Black",
-                "file": ["Kinera Wyvern Black (AET07)"],
-                "suffix":[""]
+                "file": ["Kinera Wyvern Black (AET07)", "Kinera Wyvern Black (Yosh)"],
+                "suffix":["", "(Yosh)"]
             }
         ]
     },
@@ -152,7 +152,7 @@
             {
                 "name": "WF-C510",
                 "file": ["Sony WF-C510 (AET07)", "Sony WF-C510 (Clear Bass +5 EQ)"],
-                "suffix":["(AET07)", "(Clear Bass +5)"]
+                "suffix":["", "(Clear Bass +5)"]
             },
             {
                 "name": "WF-C700N",
@@ -195,6 +195,15 @@
                 "suffix":[""]
             }
         ]
+    },
+    {
+        "name": "Truthear",
+        "phones": [
+            {
+                "name": "Zero: Red",
+                "file": ["Truthear Zero Red (Rozu)", "Truthear Zero Red (10ohm)", "Truthear Zero Red (20ohm)", "Truthear Zero Red (50ohm)", "Truthear Zero Red (75ohm)", "Truthear Zero Red (100ohm)"],
+                "suffix":["(Rozu)", "(10 Ohm)", "(20 Ohm)", "(50 Ohm)", "(75 Ohm)", "(100 Ohm)"]
+            }
+        ]
     }
-
 ]

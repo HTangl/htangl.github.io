@@ -69,8 +69,8 @@
             },
             {
                 "name": "HD 6XX",
-                "file": ["Sennheiser HD 6XX"],
-                "suffix":[""]
+                "file": ["Sennheiser HD 6XX", "Sennheiser HD 6XX (Ex)"],
+                "suffix":["", "(Ex)"]
             }
         ]
     },
