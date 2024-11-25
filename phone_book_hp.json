@@ -48,9 +48,9 @@
         "name": "Philphone",
         "phones": [
             {
-                "name": "Philphone",
+                "name": "Open",
                 "file": ["Philphone"],
-                "suffix":[""]
+                "suffix":["300 Ohm"]
             },
             {
                 "name": "Closed",
