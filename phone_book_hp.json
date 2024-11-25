@@ -34,8 +34,13 @@
         "phones": [
             {
                 "name": "KSC75",
-                "file": ["Koss KSC75 (PE Headand)"],
-                "suffix":["(PE Headand)"]
+                "file": ["Koss KSC75 (PE Headband)"],
+                "suffix":["(PE Headband)"]
+            },
+            {
+                "name": "Porta Pro",
+                "file": ["Koss Porta Pro S1 (PP Headband)", "Koss Porta Pro S1 (Yaxi Pads PP Headband)", "Koss Porta Pro S1 (PE Headband)", "Koss Porta Pro S2 (PP Headband)"],
+                "suffix":["S1", "S1 (Yaxi Pads)", "S1 (PE Headband)", "S2"]
             }
         ]
     },
@@ -99,8 +104,8 @@
             },
             {
                 "name": "HiTune Max5c",
-                "file": ["UGreen Max5c (Classic ANC Off)","UGreen Max5c (Classic ANC Ultra)","UGreen Max5c (Classic ANC General)","UGreen Max5c (Classic ANC Gentle)","UGreen Max5c (Jazz ANC Off)","UGreen Max5c (Classical ANC Off)","UGreen Max5c (Electronic ANC Off)","UGreen Max5c (Pop ANC Off)","UGreen Max5c (Rock ANC Off)","UGreen Max5c (Bass ANC Off)","UGreen Max5c (Treble ANC Off)"],
-                "suffix":["(Classic ANC Off)","(Classic ANC Ultra)","(Classic ANC General)","(Classic ANC Gentle)","(Jazz ANC Off)","(Classical ANC Off)","(Electronic ANC Off)","(Pop ANC Off)","(Rock ANC Off)","(Bass ANC Off)","(Treble ANC Off)"]
+                "file": ["UGreen Max5c (Jazz ANC Off)","UGreen Max5c (Jazz ANC Ultra)","UGreen Max5c (Jazz ANC General)","UGreen Max5c (Jazz ANC Gentle)", "UGreen Max5c (Classic ANC Off)", "UGreen Max5c (Classical ANC Off)","UGreen Max5c (Electronic ANC Off)","UGreen Max5c (Pop ANC Off)","UGreen Max5c (Rock ANC Off)","UGreen Max5c (Bass ANC Off)","UGreen Max5c (Treble ANC Off)", "UGreen Max5c (Classic Spatial Audio ANC Off)"],
+                "suffix":["(Jazz ANC Off)","(Jazz ANC Ultra)","(Jazz ANC General)","(Jazz ANC Gentle)", "(Classic ANC Off)", "(Classical ANC Off)","(Electronic ANC Off)","(Pop ANC Off)","(Rock ANC Off)","(Bass ANC Off)","(Treble ANC Off)", "(Spatial Audio ANC Off)"]
             }
         ]
     },
