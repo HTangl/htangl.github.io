@@ -38,26 +38,27 @@ const init_phones = ["ISO 11904-2 DF Target", "TGXear Serratus"],// Optional. Wh
 
 // Specify which targets to display
 const targets = [
-    { type:"Reference",  files:["ISO 11904-2 DF"] }
+    { type:"Reference",  files:["ISO 11904-2 DF", "KB50XX DF"] },
+    { type:"Preference", files:["Hadoe Headphone"] }
 ];
 
 // Haruto's Addons
 const  preference_bounds_name = "Preference Bounds RAW",  // Preference bounds name
-       preference_bounds_dir = "assets/pref_bounds/",  // Preference bounds directory
-       preference_bounds_startup = false,              // If true, preference bounds are displayed on startup
-       allowSquigDownload = true,                     // If true, allows download of measurement data
-       PHONE_BOOK = "phone_book_buds.json",                 // Path to phone book JSON file
-       default_y_scale = "30db",                       // Default Y scale; values: ["20db", "30db", "40db", "50db", "crin"]
-       default_DF_name = "ISO 11904-2 DF",                   // Default RAW DF name
-       dfBaseline = true,                              // If true, DF is used as baseline when custom df tilt is on
-       default_bass_shelf = 0,                         // Default Custom DF bass shelf value
-       default_tilt = -1.5,                            // Default Custom DF tilt value
-       default_ear = -1.5,                                // Default Custom DF ear gain value
-       default_treble = 0,                             // Default Custom DF treble gain value
-       tiltableTargets = ["ISO 11904-2 DF"],                 // Targets that are allowed to be tilted
-       compTargets = ["ISO 11904-2 DF"],                     // Targets that are allowed to be used for compensation
-       allowCreatorSupport = false;                     // Allow the creator to have a button top right to support them
-
+       preference_bounds_dir = "../assets/pref_bounds/",  // Preference bounds directory
+       preference_bounds_startup = false,                 // If true, preference bounds are displayed on startup
+       allowSquigDownload = true,                         // If true, allows download of measurement data
+       PHONE_BOOK = "data/phone_book.json",               // Path to phone book JSON file
+       default_y_scale = "30db",                          // Default Y scale; values: ["20db", "30db", "40db", "50db", "crin"]
+       default_DF_name = "ISO 11904-2 DF",                // Default RAW DF name
+       dfBaseline = true,                                 // If true, DF is used as baseline when custom df tilt is on
+       default_bass_shelf = 0,                            // Default Custom DF bass shelf value
+       default_tilt = -2.0,                               // Default Custom DF tilt value
+       default_ear = -1.0,                                // Default Custom DF ear gain value
+       default_treble = 0,                                // Default Custom DF treble gain value
+       tiltableTargets = ["ISO 11904-2 DF", "KB50XX DF"], // Targets that are allowed to be tilted
+       compTargets = ["ISO 11904-2 DF", "KB50XX DF"],     // Targets that are allowed to be used for compensation
+       allowCreatorSupport = false;                       // Allow the creator to have a button top right to support them
+       
 // *************************************************************
 // Functions to support config options set above; probably don't need to change these
 // *************************************************************

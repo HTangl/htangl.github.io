@@ -5,7 +5,7 @@
             {
                 "name": "Echo Buds 2023",
                 "file": ["Amazon Echo Buds 2023 (Foam)", "Amazon Echo Buds 2023 (Silicone)", "Amazon Echo Buds 2023 (Bare)"],
-                "suffix":["(Foam)", "(Silicone)", "(Bare)"]
+                "suffix":[                     "(Foam)",                       "(Silicone)",                       "(Bare)"]
             }
         ]
     },
@@ -25,7 +25,7 @@
             {
                 "name": "Block",
                 "file": ["Moondrop Block (Bare)", "Moondrop Block (Foam)", "Moondrop Block (Donut Foam)"],
-                "suffix":["(Bare)", "(Foam)", "(Donut Foam)"]
+                "suffix":[              "(Bare)",                "(Foam)",                "(Donut Foam)"]
             }
         ]
     },
@@ -36,6 +36,11 @@
                 "name": "EB2S Pro",
                 "file": ["NiceHCK EB2S Pro"],
                 "suffix":["(Foam)"]
+            },
+            {
+                "name": "Yuandao",
+                "file": ["NiceHCK Yuandao"],
+                "suffix":["(Foam)"]
             }
         ]
     },
@@ -45,7 +50,7 @@
             {
                 "name": "Super Bass",
                 "file": ["Sweet Melody Super Bass (Bare)", "Sweet Melody Super Bass (Foam)"],
-                "suffix":["(Bare)", "(Foam)"]
+                "suffix":[                       "(Bare)",                         "(Foam)"]
             }
         ]
     },
@@ -85,7 +90,7 @@
             {
                 "name": "Earbuds Blue",
                 "file": ["Vido Earbuds (Blue S1)", "Vido Earbuds (Blue S2)"],
-                "suffix":["(Foam S1)", "(Foam S2)"]
+                "suffix":[            "(Foam S1)",              "(Foam S2)"]
             }
         ]
     }
