@@ -79,8 +79,8 @@
             },
             {
                 "name": "HD 650",
-                "file": ["Sennheiser HD 650 (Worn Pads)", "Sennheiser HD 650 (ZMF Lamb Solid)"],
-                "suffix":[                 "(Worn Pads)",                   "(ZMF Lamb Solid)"]
+                "file": ["Sennheiser HD 650 (New Pads)", "Sennheiser HD 650 (Worn Pads)", "Sennheiser HD 650 (Soulwit CG NF)", "Sennheiser HD 650 (ZMF Lamb Solid)", "Sennheiser HD 650 (Transtek Fabric)"],
+                "suffix":[                 "(New Pads)",                   "(Worn Pads)",             "(Soulwit Cooling Gel)",                   "(ZMF Lamb Solid)",                   "(Transtek Fabric)"]
             }
         ]
     },
