@@ -44,10 +44,10 @@ const targets = [
 
 // Haruto's Addons
 const  preference_bounds_name = "Preference Bounds RAW",  // Preference bounds name
-       preference_bounds_dir = "../assets/pref_bounds/",  // Preference bounds directory
+       preference_bounds_dir = "assets/pref_bounds/",  // Preference bounds directory
        preference_bounds_startup = false,                 // If true, preference bounds are displayed on startup
        allowSquigDownload = true,                         // If true, allows download of measurement data
-       PHONE_BOOK = "data/phone_book.json",               // Path to phone book JSON file
+       PHONE_BOOK = "phone_book_buds.json",               // Path to phone book JSON file
        default_y_scale = "30db",                          // Default Y scale; values: ["20db", "30db", "40db", "50db", "crin"]
        default_DF_name = "ISO 11904-2 DF",                // Default RAW DF name
        dfBaseline = true,                                 // If true, DF is used as baseline when custom df tilt is on
