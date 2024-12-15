@@ -79,8 +79,8 @@
             },
             {
                 "name": "HD 650",
-                "file": ["Sennheiser HD 650 (New Pads)", "Sennheiser HD 650 (Worn Pads)", "Sennheiser HD 650 (Soulwit CG NF)", "Sennheiser HD 650 (ZMF Lamb Solid)", "Sennheiser HD 650 (Transtek Fabric)"],
-                "suffix":[                 "(New Pads)",                   "(Worn Pads)",             "(Soulwit Cooling Gel)",                   "(ZMF Lamb Solid)",                   "(Transtek Fabric)"]
+                "file": ["Sennheiser HD 650 (New Pads)", "Sennheiser HD 650 (Worn Pads)", "Sennheiser HD 650 (Soulwit CG NF)", "Sennheiser HD 650 (ZMF Lamb Perf)", "Sennheiser HD 650 (ZMF Lamb Solid)", "Sennheiser HD 650 (Transtek Fabric)"],
+                "suffix":[                 "(New Pads)",                   "(Worn Pads)",             "(Soulwit Cooling Gel)",                   "(ZMF Lamb Perf)",                   "(ZMF Lamb Solid)",                   "(Transtek Fabric)"]
             }
         ]
     },
@@ -119,13 +119,13 @@
         "phones": [
             {
                 "name": "Aeolus",
-                "file": ["ZMF Aeolus (Universe Lamb Perf)", "ZMF Aeolus (Universe Hybrid Perf)", "ZMF Aeolus (Auteur Hybrid Perf)", "ZMF Aeolus (Universe Hybrid Solid)", "ZMF Aeolus (Auteur Hybrid Solid)", "ZMF Aeolus (Ori Lamb Solid)", "ZMF Aeolus (Oval Suede Solid)"],
-                "suffix":[          "(Universe Lamb Perf)",            "(Universe Hybrid Perf)",            "(Auteur Hybrid Perf)",            "(Universe Hybrid Solid)",            "(Auteur Hybrid Solid)",            "(Ori Lamb Solid)",            "(Oval Suede Solid)"]
+                "file": ["ZMF Aeolus (Universe Lamb Perf)", "ZMF Aeolus (Auteur Lamb Perf)", "ZMF Aeolus (Universe Hybrid Perf)", "ZMF Aeolus (Auteur Hybrid Perf)", "ZMF Aeolus (Universe Hybrid Solid)", "ZMF Aeolus (Auteur Hybrid Solid)", "ZMF Aeolus (Ori Lamb Solid)", "ZMF Aeolus (Oval Suede Solid)"],
+                "suffix":[          "(Universe Lamb Perf)",            "(Auteur Lamb Perf)",            "(Universe Hybrid Perf)",            "(Auteur Hybrid Perf)",            "(Universe Hybrid Solid)",            "(Auteur Hybrid Solid)",            "(Ori Lamb Solid)",            "(Oval Suede Solid)"]
             },
             {
                 "name": "Atticus",
-                "file": ["ZMF Atticus (Ori Lamb Solid)", "ZMF Atticus (Universe Hybrid Solid)","ZMF Atticus (Auteur Hybrid Solid)","ZMF Atticus (Oval Suede Solid)"],
-                "suffix":[           "(Ori Lamb Solid)",             "(Universe Hybrid Solid)",            "(Auteur Hybrid Solid)",            "(Oval Suede Solid)"]
+                "file": ["ZMF Atticus (Ori Lamb Solid)", "ZMF Atticus (Eikon Hybrid Solid)", "ZMF Atticus (Universe Hybrid Solid)", "ZMF Atticus (Auteur Hybrid Solid)", "ZMF Atticus (Oval Suede Solid)"],
+                "suffix":[           "(Ori Lamb Solid)",             "(Eikon Hybrid Solid)",             "(Universe Hybrid Solid)",             "(Auteur Hybrid Solid)",             "(Oval Suede Solid)"]
             }
         ]
     }
