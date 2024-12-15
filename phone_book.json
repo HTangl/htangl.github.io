@@ -15,8 +15,7 @@
             {
                 "name": "R1",
                 "file": ["Artti R1 (AET07)"],
-                "suffix":[""],
-                "reviewScore": "4/5"
+                "suffix":[""]
             }
         ]
     },
@@ -26,8 +25,7 @@
             {
                 "name": "Z300",
                 "file": ["Blon Z300 (AET07)"],
-                "suffix":[""],
-                "reviewScore": "2/5"
+                "suffix":[""]
             }
         ]
     },
@@ -37,8 +35,17 @@
             {
                 "name": "Falcon Ultra",
                 "file": ["Dunu Falcon Ultra (Blue Nozzle AET07)"],
-                "suffix":["(Blue Nozzle)"],
-                "reviewScore": "2/5"
+                "suffix":["(Blue Nozzle)"]
+            }
+        ]
+    },
+    {
+        "name": "FiiO",
+        "phones": [
+            {
+                "name": "JD10",
+                "file": ["Fiio JD10"],
+                "suffix":[""]
             }
         ]
     },
