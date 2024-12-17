@@ -30,6 +30,16 @@
         ]
     },
     {
+        "name": "CCZ",
+        "phones": [
+            {
+                "name": "Warrior",
+                "file": ["CCZ Warrior"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
         "name": "Dunu",
         "phones": [
             {
