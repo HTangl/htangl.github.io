@@ -34,8 +34,8 @@
         "phones": [
             {
                 "name": "Warrior",
-                "file": ["CCZ Warrior"],
-                "suffix":[""]
+                "file": ["CCZ Warrior", "CCZ Warrior (S2)"],
+                "suffix":[      "(S1)",             "(S2)"]
             }
         ]
     },
