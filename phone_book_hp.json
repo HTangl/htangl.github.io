@@ -10,6 +10,16 @@
         ]
     },
     {
+        "name": "Audio-Technica",
+        "phones": [
+            {
+                "name": "ATH-AD500X",
+                "file": ["Audio-Technica ATH-AD500X (Worn Pads)", "Audio-Technica ATH-AD500X (ZMF Universe Hybrid Perf)", "Audio-Technica ATH-AD500X (ZMF Universe Hybrid Solid)"],
+                "suffix":[                         "(Worn Pads)",                           "(ZMF Universe Hybrid Perf)",                           "(ZMF Universe Hybrid Solid)"]
+            }
+        ]
+    },
+    {
         "name": "Capra Audio",
         "phones": [
             {
@@ -63,6 +73,12 @@
         "name": "Sennheiser",
         "phones": [
             {
+                "name": "HD 280 Pro",
+                "file": ["Sennheiser HD 280 Pro", "Sennheiser HD 280 Pro (Old)"],
+                "suffix":[                    "",                 "(Old Model)"]
+            },
+            {
+            
                 "name": "HD 490 Pro",
                 "file": ["Sennheiser HD 490 Pro (Producing Pads)", "Sennheiser HD 490 Pro (Mixing Pads)"],
                 "suffix":["(Producing Pads)", "(Mixing Pads)"]

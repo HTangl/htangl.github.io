@@ -10,6 +10,16 @@
         ]
     },
     {
+        "name": "FiiO",
+        "phones": [
+            {
+                "name": "JF11",
+                "file": ["FiiO JF11"],
+                "suffix":[        ""]
+            }
+        ]
+    },
+    {
         "name": "HZSound",
         "phones": [
             {
