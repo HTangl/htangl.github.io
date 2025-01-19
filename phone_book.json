@@ -10,6 +10,16 @@
         ]
     },
     {
+        "name": "Aful",
+        "phones": [
+            {
+                "name": "Explorer",
+                "file": ["Aful Explorer", "Aful Explorer (10 Ohm)", "Aful Explorer (20 Ohm)", "Aful Explorer (50 Ohm)", "Aful Explorer (75 Ohm)", "Aful Explorer (100 Ohm)"],
+                "suffix":["",                           "(10 Ohm)",               "(20 Ohm)",               "(50 Ohm)",               "(75 Ohm)",               "(100 Ohm)"]
+            }
+        ]
+    },
+    {
         "name": "Artti",
         "phones": [
             {
@@ -71,6 +81,16 @@
         ]
     },
     {
+        "name": "Intime",
+        "phones": [
+            {
+                "name": "Sora Light",
+                "file": ["Intime Sora Light"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
         "name": "JBL",
         "phones": [
             {
@@ -104,9 +124,24 @@
         "name": "KZ",
         "phones": [
             {
+                "name": "Ling Long",
+                "file": ["KZ Ling Long"],
+                "suffix":[""]
+            },
+            {
                 "name": "Merga",
                 "file": ["KZ Merga (AET07)","KZ Merga (AET07) 10 Ohm","KZ Merga (AET07) 20 Ohm","KZ Merga (AET07) 50 Ohm","KZ Merga (AET07) 75 Ohm","KZ Merga (AET07) 100 Ohm"],
                 "suffix":["","(10 Ohm)","(20 Ohm)","(50 Ohm)","(75 Ohm)","(100 Ohm)"]
+            }
+        ]
+    },
+    {
+        "name": "Letshuoer",
+        "phones": [
+            {
+                "name": "S08",
+                "file": ["Letshuoer S08"],
+                "suffix":[""]
             }
         ]
     },
@@ -199,6 +234,16 @@
             {
                 "name": "Waner",
                 "file": ["Tangzu Waner (AET07)"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "Tri",
+        "phones": [
+            {
+                "name": "Draco",
+                "file": ["Tri Draco"],
                 "suffix":[""]
             }
         ]
