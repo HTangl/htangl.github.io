@@ -63,6 +63,11 @@
         "name": "FiiO",
         "phones": [
             {
+                "name": "FH15",
+                "file": ["FiiO FH15 (Treble)", "FiiO FH15 (Balanced)", "FiiO FH15 (Bass)", "FiiO FH15 (No Filter)", "FiiO FH15 (Balanced 10 Ohm)", "FiiO FH15 (Balanced 20 Ohm)", "FiiO FH15 (Balanced 50 Ohm)", "FiiO FH15 (Balanced 75 Ohm)", "FiiO FH15 (Balanced 100 Ohm)"],
+                "suffix":[         "(Treble)",            "Balanced)",           "(Bass)",           "(No Filter)",           "(Balanced 10 Ohm)",           "(Balanced 20 Ohm)",           "(Balanced 50 Ohm)",           "(Balanced 75 Ohm)",           "(Balanced 100 Ohm)"]
+            },
+            {
                 "name": "JD10",
                 "file": ["Fiio JD10"],
                 "suffix":[""]
