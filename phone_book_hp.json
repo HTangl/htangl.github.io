@@ -20,6 +20,21 @@
         ]
     },
     {
+        "name": "Aurorus Audio",
+        "phones": [
+            {
+                "name": "Australis",
+                "file": ["Aurorus Audio Australis V2", "Aurorus Audio Australis V2 (ZMF Universe Hybrid Solid)"],
+                "suffix":[                       "V2",                         "V2 (ZMF Universe Hybrid Solid)"]
+            },
+            {
+                "name": "Borealis",
+                "file": ["Aurorus Audio Borealis V2 (Worn Pads)", "Aurorus Audio Borealis V2 (ZMF Universe Hybrid Perf)", "Aurorus Audio Borealis V2 (ZMF Universe Hybrid Solid)"],
+                "suffix":[                      "V2 (Worn Pads)",                        "V2 (ZMF Universe Hybrid Perf)",                        "V2 (ZMF Universe Hybrid Solid)"]
+            }
+        ]
+    },
+    {
         "name": "Capra Audio",
         "phones": [
             {
@@ -59,8 +74,8 @@
         "phones": [
             {
                 "name": "Open",
-                "file": ["Philphone"],
-                "suffix":["300 Ohm"]
+                "file": [           "Philphone", "Philphone Open 300 Ohm (ZMF Universe Hybrid Perf)"],
+                "suffix":["300 Ohm (Worn Pads)",                "300 Ohm (ZMF Universe Hybrid Perf)"]
             },
             {
                 "name": "Closed",

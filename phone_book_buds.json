@@ -15,7 +15,7 @@
             {
                 "name": "JF11",
                 "file": ["FiiO JF11"],
-                "suffix":[        ""]
+                "suffix":[  "(Foam)"]
             }
         ]
     },
@@ -26,6 +26,16 @@
                 "name": "Bell Rhyme",
                 "file": ["HZSound Bell Rhyme"],
                 "suffix":["(Foam)"]
+            }
+        ]
+    },
+    {
+        "name": "JBL",
+        "phones": [
+            {
+                "name": "Tune Flex",
+                "file": ["JBL Tune Flex (Bare EQ Off)", "JBL Tune Flex (Foam EQ Off)", "JBL Tune Flex (Foam Hadoe EQ)"],
+                "suffix":[             "(Bare EQ Off)",               "(Foam EQ Off)",               "(Foam Hadoe EQ)"]
             }
         ]
     },

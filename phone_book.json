@@ -64,12 +64,22 @@
         "phones": [
             {
                 "name": "FH15",
-                "file": ["FiiO FH15 (Treble)", "FiiO FH15 (Balanced)", "FiiO FH15 (Bass)", "FiiO FH15 (No Filter)", "FiiO FH15 (Balanced 10 Ohm)", "FiiO FH15 (Balanced 20 Ohm)", "FiiO FH15 (Balanced 50 Ohm)", "FiiO FH15 (Balanced 75 Ohm)", "FiiO FH15 (Balanced 100 Ohm)"],
-                "suffix":[         "(Treble)",           "(Balanced)",           "(Bass)",           "(No Filter)",           "(Balanced 10 Ohm)",           "(Balanced 20 Ohm)",           "(Balanced 50 Ohm)",           "(Balanced 75 Ohm)",           "(Balanced 100 Ohm)"]
+                "file": ["FiiO FH15 (Treble)", "FiiO FH15 (Balanced)", "FiiO FH15 (Bass)", "FiiO FH15 (No Filter)", "FiiO FH15 (Balanced Dunu S&S)", "FiiO FH15 (Balanced 10 Ohm)", "FiiO FH15 (Balanced 20 Ohm)", "FiiO FH15 (Balanced 50 Ohm)", "FiiO FH15 (Balanced 75 Ohm)", "FiiO FH15 (Balanced 100 Ohm)"],
+                "suffix":[         "(Treble)",           "(Balanced)",           "(Bass)",           "(No Filter)",           "(Balanced Dunu S&S)",           "(Balanced 10 Ohm)",           "(Balanced 20 Ohm)",           "(Balanced 50 Ohm)",           "(Balanced 75 Ohm)",           "(Balanced 100 Ohm)"]
             },
             {
                 "name": "JD10",
                 "file": ["Fiio JD10"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "Final",
+        "phones": [
+            {
+                "name": "E500",
+                "file": ["Final E500"],
                 "suffix":[""]
             }
         ]
@@ -106,6 +116,16 @@
         ]
     },
     {
+        "name": "KBEar",
+        "phones": [
+            {
+                "name": "Robin",
+                "file": ["Kbear Robin"],
+                "suffix":[""]
+            }
+        ]
+    },
+    {
         "name": "Kinera",
         "phones": [
             {
@@ -122,12 +142,22 @@
                 "name": "Cadenza",
                 "file": ["Kiwi Ears Cadenza"],
                 "suffix":[""]
+            },
+            {
+                "name": "Quartet",
+                "file": ["Kiwi Ears Quartet (11)"],
+                "suffix":["(11)"]
             }
         ]
     },
     {
         "name": "KZ",
         "phones": [
+            {
+                "name": "DQ6S",
+                "file": ["KZ DQ6S"],
+                "suffix":[""]
+            },
             {
                 "name": "Ling Long",
                 "file": ["KZ Ling Long"],
@@ -147,6 +177,16 @@
                 "name": "S08",
                 "file": ["Letshuoer S08"],
                 "suffix":[""]
+            }
+        ]
+    },
+    {
+        "name": "Monster",
+        "phones": [
+            {
+                "name": "Turbine Pro Gold",
+                "file": ["Monster Turbine Pro Gold"],
+                "suffix":["(Broken L Channel)"]
             }
         ]
     },
