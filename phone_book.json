@@ -129,7 +129,12 @@
         "name": "Kinera",
         "phones": [
             {
-                "name": "Wyvern Black",
+                "name": "Celest Relentless",
+                "file": ["KC Relentless", "KC Relentless (1 Ohm)", "KC Relentless (2.2 Ohm)", "KC Relentless (4.7 Ohm)", "KC Relentless (5.6 Ohm)", "KC Relentless (7.5 Ohm)", "KC Relentless (8.2 Ohm)", "KC Relentless (10 Ohm)", "KC Relentless (20 Ohm)", "KC Relentless (50 Ohm)", "KC Relentless (75 Ohm)", "KC Relentless (100 Ohm)"],
+                "suffix":[            "",               "(1 Ohm)",               "(2.2 Ohm)",               "(4.7 Ohm)",               "(5.6 Ohm)",               "(7.5 Ohm)",               "(8.2 Ohm)",               "(10 Ohm)",               "(20 Ohm)",               "(50 Ohm)",               "(75 Ohm)",               "(100 Ohm)"]
+            },
+            {
+                "name": "Celest Wyvern Black",
                 "file": ["Kinera Wyvern Black (AET07)", "Kinera Wyvern Black (Yosh)"],
                 "suffix":["", "(Yosh)"]
             }
