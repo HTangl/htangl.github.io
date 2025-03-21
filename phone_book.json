@@ -20,6 +20,16 @@
         ]
     },
     {
+        "name": "Arpegear",
+        "phones": [
+            {
+                "name": "Hane",
+                "file": ["Arpegear Hane (0000)", "Arpegear Hane (1000)", "Arpegear Hane (0100)", "Arpegear Hane (0010)", "Arpegear Hane (0001)", "Arpegear Hane (1100)", "Arpegear Hane (0110)", "Arpegear Hane (0011)", "Arpegear Hane (1110)", "Arpegear Hane (0111)", "Arpegear Hane (1011)", "Arpegear Hane (1101)", "Arpegear Hane (1111)", "Arpegear Hane (1111 100ohm)"],
+                "suffix":[             "(0000)",               "(1000)",               "(0100)",               "(0010)",               "(0001)",               "(1100)",               "(0110)",               "(0011)",               "(1110)",               "(0111)",               "(1011)",               "(1101)",               "(1111)",              "(1111 100 Ohm)"]
+            }
+        ]
+    },
+    {
         "name": "Artti",
         "phones": [
             {
