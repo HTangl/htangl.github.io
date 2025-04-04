@@ -226,8 +226,8 @@
         "phones": [
             {
                 "name": "Superior EX",
-                "file": ["QDC Superior EX"],
-                "suffix":[""]
+                "file": ["QDC Superior EX S1", "QDC Superior EX S2"],
+                "suffix":["(S1)", "(S2)"]
             }
         ]
     },
